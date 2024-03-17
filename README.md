@@ -1,6 +1,6 @@
 ![logo](https://github.com/sushanth1912/Sushanth-A.C/blob/main/2.png)
 <h1 align="center">Hey there👋, I'm Sushanth Chowdhary</h1>
-<h3 align="center">AI, ML enthusiast. Masters Student at Stevens Institute of Technology</h3>
+<h3 align="center">AI, ML enthusiast. Masters Student @ Stevens Institute of Technology</h3>
 
 <img align="right" alt="coding" width="450" src="https://i.redd.it/n8agw6z2smyb1.gif">
 
