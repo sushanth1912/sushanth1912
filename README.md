@@ -2,7 +2,7 @@
 <h1 align="center">Hey there👋, I'm Sushanth Chowdhary</h1>
 <h3 align="center">AI, ML enthusiast. Masters Student at Stevens Institute of Technology</h3>
 
-<img align="right" alt="coding" width="550" src="https://i.redd.it/n8agw6z2smyb1.gif">
+<img align="right" alt="coding" width="500" src="https://i.redd.it/n8agw6z2smyb1.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sushanth1912&label=Profile%20views&color=0e75b6&style=flat" alt="sushanth1912" /> </p>
 
